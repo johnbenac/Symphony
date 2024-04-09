@@ -1,12 +1,12 @@
 {
     "display_name": "Symphony",
-    "loading_order": 1, // Optional. Higher number loads later
-    "requires": [], // Required Extras modules dependencies.
-    "optional": [], // Optional Extras dependencies
-    "js": "index.js", // Main JS file
-    "css": "style.css", // (Optional) CSS file
+    "loading_order": 1, 
+    "requires": [], 
+    "optional": [], 
+    "js": "index.js",
+    "css": "style.css", 
     "author": "JoJorge",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homePage": "https://github.com/johnbenac/Symphony",
-    "auto_update": true // If the extension should auto-update when the version of the ST package changes
+    "auto_update": true 
 }
